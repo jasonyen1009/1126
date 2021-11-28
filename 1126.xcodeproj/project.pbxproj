@@ -16,6 +16,7 @@
 		25C2B2692750E0FD00983E45 /* _126Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C2B2682750E0FD00983E45 /* _126Tests.swift */; };
 		25C2B2732750E0FD00983E45 /* _126UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C2B2722750E0FD00983E45 /* _126UITests.swift */; };
 		25C2B2752750E0FD00983E45 /* _126UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C2B2742750E0FD00983E45 /* _126UITestsLaunchTests.swift */; };
+		25C2B2842752284D00983E45 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C2B2832752284D00983E45 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		25C2B26E2750E0FD00983E45 /* 1126UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1126UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25C2B2722750E0FD00983E45 /* _126UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _126UITests.swift; sourceTree = "<group>"; };
 		25C2B2742750E0FD00983E45 /* _126UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _126UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		25C2B2832752284D00983E45 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				25C2B2532750E0FC00983E45 /* SceneDelegate.swift */,
 				25C2B2552750E0FC00983E45 /* ViewController.swift */,
 				25C2B2572750E0FC00983E45 /* Main.storyboard */,
+				25C2B2832752284D00983E45 /* DetailViewController.swift */,
 				25C2B25A2750E0FD00983E45 /* Assets.xcassets */,
 				25C2B25C2750E0FD00983E45 /* LaunchScreen.storyboard */,
 				25C2B25F2750E0FD00983E45 /* Info.plist */,
@@ -261,6 +264,7 @@
 				25C2B2562750E0FC00983E45 /* ViewController.swift in Sources */,
 				25C2B2522750E0FC00983E45 /* AppDelegate.swift in Sources */,
 				25C2B2542750E0FC00983E45 /* SceneDelegate.swift in Sources */,
+				25C2B2842752284D00983E45 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
